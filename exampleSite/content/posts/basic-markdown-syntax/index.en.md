@@ -17,6 +17,9 @@ categories: ["Markdown"]
 lightgallery: true
 ---
 
+
+![Father and sons](https://applegate-paul.mo.cloudinary.net/https://storage.googleapis.com/cloudinarymedia/images/Dad-kevin-meApril-10-2010.jpg)
+
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files.
 
 <!--more-->
